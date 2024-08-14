@@ -1,0 +1,150 @@
+
+.header {
+    display: flex;
+    gap: 0px;
+  }
+  
+  
+  .name {
+    flex: 1;
+    font-family: Sora;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50.4px;
+    text-align: center;
+    color: #f4eeee;
+    margin-right: 598px;
+  }
+  
+  .items {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    background-color: #292828;
+    padding-top: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-right: 155px;
+  }
+  
+  .items li {
+    color: #f4eeee;
+  }
+  .h1{
+    font-family: Sora;
+font-size: 48px;
+font-weight: 600;
+line-height: 60.48px;
+text-align: center;
+color: #FFFFFF;
+}
+.abs1{
+    width: 353.17px;
+height: 448.38px;
+top: 784.38px;
+left: 528.13px;
+gap: 0px;
+border-radius: 9.84px 9.84px 9.84px 9.84px;
+background: #323030;
+margin-left: 50px;
+    align-items: center;
+    margin-top: 50px;
+}
+.but1{
+width: 289px;
+height: 49px;
+gap: 0px;
+border-radius: 30px 30px 30px 30px;
+background: #F83F04CC;
+color: #FFFFFF;
+font-family: Sora;
+font-size: 20px;
+font-weight: 600;
+line-height: 25.2px;
+text-align: center;
+margin-top: 28px;
+
+}
+.im{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.as{
+width: 1270px;
+height: 676px;
+top: 298px;
+left: 119px;
+gap: 0px;
+border-radius: 20px 20px 20px 20px;
+margin-top: 50px;
+margin-bottom: 70px;
+align-items: center;
+margin-left: 115px;
+margin-right: 150px;
+background: #1F1F1F;
+z-index: 2;
+overflow: hidden;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-top: 20px;
+
+}
+.abs{
+  display: flex;
+  
+  
+}
+.im1{
+  margin-top: 20px;
+  
+}
+.hb{
+  font-family: Sora;
+font-size: 32px;
+font-weight: 600;
+line-height: 40.32px;
+text-align: left;
+color: #FFFFFF;
+}
+.p1 {
+  color: #BDB1B1;
+  line-height: 1.5;
+  margin: 10px 0;
+  word-wrap: break-word;
+  white-space: normal;
+  font-family: Sarabun;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 28.4px;
+  text-align: left;
+  margin-top: 2px;
+  margin-top: 25px;
+}
+.abs2{
+  margin-left: 58px;
+  margin-top: 50px;
+}
+.hh{
+  font-family: Sora;
+font-size: 20px;
+font-weight: 700;
+line-height: 25.2px;
+text-align: left;
+color:  #7E7777;
+}
+.pcp{
+  display: flex;
+  gap: 80px;
+  margin-left: 155px;
+  margin-top: 35px;
+}
+.j{
+  width: 1px; 
+  height: 100px; 
+  background-color: #C7C7C7; 
+  left: 50%; 
+  top: 50%;
+}

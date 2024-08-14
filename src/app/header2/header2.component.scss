@@ -1,0 +1,281 @@
+.card {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right:130px;
+    margin-bottom: 100px;
+    margin-top: 25px;
+    gap: 50px;
+
+
+}
+
+.card1 {
+    flex: 1;
+    width: 250px ;
+     
+    height: 290px;
+    gap: 0px;
+    border-radius: 20px;
+    background-color: #282828;
+    padding: 20px;
+}
+
+.h1 {
+    color: white;
+    font-family: Sora;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30.24px;
+    text-align: left;
+}
+
+.h4 {
+    color: white;
+    font-family: Sora;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16.38px;
+    text-align: left;
+}
+
+.h5 {
+    font-family: Sora;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15.12px;
+    text-align: left;
+    color: #BDB1B1;
+}
+
+.p1 {
+    color: #BDB1B1;
+    line-height: 1.5;
+    margin: 10px 0;
+    word-wrap: break-word;
+    white-space: normal;
+    font-family: Sarabun;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 23.4px;
+    text-align: left;
+}
+
+.dottedline {
+    border: none;
+    border-top: 2px dotted #f4eeee;
+    color: #f4eeee;
+    background-color: transparent;
+    height: 1px;
+    margin: 20px 0;
+    width: 100%;
+}
+
+.abr {
+    display: flex;
+    gap: 70px; 
+    margin-left: 20px;
+}
+
+.abr1 {
+    flex: 1;
+    white-space: nowrap; 
+}
+
+.abr2 {
+    flex: 2;
+    display: flex;
+    align-items: center; 
+    width: 84px;
+    height: 59px;
+    margin-left: 0px;
+}
+
+.card2 {
+    flex: 1;
+    
+    width: 250px;
+    
+    height: 290px;
+    gap: 0px;
+    border-radius: 20px;
+    background-color: #282828;
+    padding: 20px;
+}
+
+.h2 {
+    color: #BDB1B1;
+    font-family: Sora;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30.24px;
+    text-align: left;
+}
+
+.semicircle-container {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.semicircle {
+    position: relative;
+    width: 300px;
+    height: 220px;
+    border-top-left-radius: 800px;
+    border-top-right-radius: 800px;
+    background-color: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.software-icon {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #070606;
+    border-radius: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.figma {
+    top: -5px;
+    left: calc(50% - 25px);
+    background: url('/assets/Ellipse 77.png') no-repeat center/cover;
+}
+
+.xd {
+    top: 50px;
+    right: -5px;
+    background: url('/assets/Ellipse 78.png') no-repeat center/cover;
+}
+
+.sketch {
+    top: 50px;
+    left: -5px;
+    background: url('/assets/Ellipse 76.png') no-repeat center/cover;
+}
+
+.photoshop {
+    top: 75px;
+    left: calc(50% - 25px);
+    background: url('/assets/Ellipse 79.png') no-repeat center/cover;
+}
+
+.illustrator {
+    bottom: 0;
+    left: calc(50% - 75px);
+    background: url('/assets/Ellipse 80.png') no-repeat center/cover;
+}
+
+.canva {
+    bottom: 0;
+    right: calc(50% - 75px);
+    background: url('/assets/Ellipse 81.png') no-repeat center/cover;
+}
+.card3 {
+    flex: 1;
+    width: 250px;    
+    height: 290px;
+    gap: 0px;
+    border-radius: 20px;
+    padding: 0px;
+    
+    
+}
+.next{
+    background: #282828;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 40px;
+}
+.h{
+    width: 79px;
+height: 81px;
+top: 637px;
+left: 1082px;
+gap: 0px;
+opacity: 0px;
+color: #f9f5f5;
+font-family: Sora;
+font-size: 64px;
+font-weight: 600;
+line-height: 80.64px;
+text-align: center;
+margin-left: 110px;
+}
+.icon1{
+    width:159px;
+    height: 180px;
+    top: 504px;
+    left: 1015px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+background: #282828;
+width: 50px;
+height: 60px;
+top: 524px;
+left: 1024px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.verticalline{
+    
+        border-left: 2px solid rgb(239, 10, 10);
+        height: 100px; 
+        margin: 0 10px;
+        margin-left: 50px; 
+    
+}
+.vert{
+    display: flex;
+    gap:   0px;
+    height: 103px;
+    
+}
+.verticalline{
+    flex: 1;
+}
+.vert1{
+    
+    flex: 2;
+    width: 83px;
+height: 38px;
+top: 721px;
+left: 1082px;
+gap: 0px;
+opacity: 0px;
+font-family: Sora;
+font-size: 15px;
+font-weight: 600;
+line-height: 18.9px;
+text-align: center;
+color: #FFFFFF;
+
+}

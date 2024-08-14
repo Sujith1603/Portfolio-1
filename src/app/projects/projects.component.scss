@@ -1,0 +1,136 @@
+.projects{
+    margin-top: 80px;
+}
+.pr{
+    display: flex;
+    gap: 80px;
+    margin-left: 115px;
+    margin-right: 150px;
+    margin-top: 80px;
+
+}
+.pr1{
+    width: 573px;
+height: 608px;
+justify-content: center ;
+border-radius: 20px 20px 20px 20px;
+opacity: 1;
+background: #282828;
+flex: 1;
+
+
+}
+.pr2{
+    width: 573px;
+height: 608px;
+justify-content: center ;
+border-radius: 20px 20px 20px 20px;
+opacity: 1;
+background: #282828;
+flex: 1;
+
+
+}
+.dev{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.dev1{
+    flex: 1;
+    
+}
+.but{
+    color: #FFFFFF;
+    background-color: #3E3E3E;
+    border-radius: 20px ;
+    margin-bottom: 20px;
+
+
+}
+.dev2{
+    flex: 2;
+    margin-left: 360px;
+   
+}
+.ar{
+    justify-content: center;
+    align-items: center;
+    background-color: #1B1A1A;
+    border-radius: 50%;
+    width: 35px;
+    height:35px;
+    border: none;
+    cursor: pointer;
+}
+.ar img{
+    width: 18px;
+    height: 18px;
+    margin-left: 9px;
+    margin-top: 6px;
+}
+.ar1{
+    justify-content: center;
+    align-items: center;
+    background-color: #1B1A1A;
+    border-radius: 50%;
+    width: 35px;
+    height:35px;
+    border: none;
+    cursor: pointer;
+}
+.ar1 img{
+    width: 18px;
+    height: 18px;
+    margin-left: 9px;
+    margin-top: 6px;
+}
+.hp{
+    font-family: Sora;
+font-size: 48px;
+font-weight: 600;
+line-height: 60.48px;
+text-align: center;
+color: #FFFFFF;
+}
+.arr{
+    justify-content: center;
+    align-items: center; 
+    background:  #1B1A1A;
+    border-radius: 20px 20px 20px 20px ;
+    height: 20px;
+    width: 20px;
+}
+.hc{
+    font-family: Sora;
+font-size: 27px;
+font-weight: 600;
+line-height: 34.02px;
+color: #FFFFFF;
+margin-bottom: 30px;
+margin-left: 30px;
+}
+.sep{
+    margin-top: 50px;
+margin-left: 650px;
+font-family: Sora;
+font-size: 20px;
+font-weight: 600;
+line-height: 25.2px;
+text-align: center;
+color:  #FFFFFF;
+background: #F83F04CC;
+width: 190px;
+height: 49px;
+gap: 0px;
+border-radius: 20px 20px 20px 20px;
+opacity: 0px;
+transition: all 0.3s ease;
+
+}
+.sep:hover{
+    color: #1F1F1F;
+    background: rgb(251, 250, 250);
+    opacity: 1; 
+    transform: scale(1.02); 
+}
